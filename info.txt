@@ -1,0 +1,6 @@
+we can manage multiple environments in three ways:
+-------------------------------------------------
+
+1. tfvars
+2. workspaces
+3. using different repos for each environment
